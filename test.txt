@@ -1,5 +1,7 @@
 test
 test2
+new branch
+commit in new branch
 test3
 
 test4
